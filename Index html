@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>New Sagar Collection</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body{
+font-family:Arial;
+margin:0;
+padding:20px;
+text-align:center;
+}
+img{
+width:100%;
+max-width:300px;
+margin:10px;
+border-radius:10px;
+}
+.whatsapp{
+display:inline-block;
+padding:12px 20px;
+background:#25D366;
+color:white;
+text-decoration:none;
+border-radius:8px;
+}
+</style>
+</head>
+<body>
+
+<h1>New Sagar Collection</h1>
+
+<p>Wholesale Clothing</p>
+
+<a class="whatsapp"
+href="https://wa.me/917507918695">
+WhatsApp Us
+</a>
+
+<h2>Our Products</h2>
+
+</body>
+</html>
