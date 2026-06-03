@@ -27,7 +27,13 @@ border-radius:8px;
 </style>
 </head>
 <body>
+<a class="btn" href="SHIRTS_LINK">Shirts</a>
 
+<a class="btn" href="JEANS_LINK">Jeans</a>
+
+<a class="btn" href="KIDS_LINK">Kids Wear</a>
+
+<a class="btn" href="LADIES_LINK">Ladies Wear</a>
 <h1>New Sagar Collection</h1>
 
 <p>Wholesale Clothing</p>
@@ -38,6 +44,20 @@ WhatsApp Us
 </a>
 
 <h2>Our Products</h2>
+<br><br>
 
+<a href="PASTE_SHIRTS_LINK_HERE">Shirts</a>
+
+<br><br>
+
+<a href="PASTE_JEANS_LINK_HERE">Jeans</a>
+
+<br><br>
+
+<a href="PASTE_KIDS_LINK_HERE">Kids Wear</a>
+
+<br><br>
+
+<a href="PASTE_LADIES_LINK_HERE">Ladies Wear</a>
 </body>
 </html>
